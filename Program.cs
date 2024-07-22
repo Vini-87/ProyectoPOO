@@ -47,6 +47,7 @@ namespace Quiz2Calendario
                 Console.WriteLine("     Bienvenidos al calendario ");
                 Console.WriteLine("            UNED.NET ");
                 Console.WriteLine("************************************");
+                Console.WriteLine("************************************");
                 Console.WriteLine("   ");
                 Console.WriteLine("Elige una de las siguentes opciones");
                 Console.WriteLine("1 - Mostrar el calendario por el año");
