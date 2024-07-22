@@ -1,0 +1,7 @@
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\obj\Debug\Quiz2Calendario.csproj.AssemblyReference.cache
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\obj\Debug\Quiz2Calendario.csproj.CoreCompileInputs.cache
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\bin\Debug\Quiz2Calendario.exe.config
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\bin\Debug\Quiz2Calendario.exe
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\bin\Debug\Quiz2Calendario.pdb
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\obj\Debug\Quiz2Calendario.exe
+C:\Users\50671\Desktop\Quiz2Calendario\Quiz2Calendario\obj\Debug\Quiz2Calendario.pdb

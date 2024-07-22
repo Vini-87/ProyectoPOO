@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz2Calendario", "Quiz2Calendario\Quiz2Calendario.csproj", "{A7334C0B-2E59-4902-B46A-450D8E5BF1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7334C0B-2E59-4902-B46A-450D8E5BF1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7334C0B-2E59-4902-B46A-450D8E5BF1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7334C0B-2E59-4902-B46A-450D8E5BF1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7334C0B-2E59-4902-B46A-450D8E5BF1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A1D0AC-9474-4CC7-B9BD-26672EB6AB6D}
+	EndGlobalSection
+EndGlobal
